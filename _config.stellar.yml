@@ -1,3 +1,8 @@
+stellar:
+  homepage: 'https://my_hexo_blog.com'
+  repo: 'https://github.com/peter.liu/hexo_blog'
+
+
 # sidebar:
 #   menu:
 #     post: '[btn.blog](/)'
@@ -5,11 +10,26 @@
 #     notes: '[笔记](/notes/)'
 #     more: '[更多](/more/)'
 
+sidebar:
+  menu:
+    post: '[btn.blog](/)'
+    about: '[关于](/about/)'
 
-# comments:
-#   service: beaudar
-#   beaudar:
-#     repo: peterliu/blog-comments
+  widgets:
+    welcome:
+      layout: markdown
+      title: 欢迎光临我的博客
+      content: | # support markdown
+        　
+
+
+        
+
+comments:
+  service: beaudar
+  beaudar:
+    repo: peterliu/blog-comments
+
 
 
     
