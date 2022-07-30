@@ -1,7 +1,14 @@
 ---
 title: 计算圆周率
 tags:
+cover: /cover-image/pi-g95bae9091_640.jpg
 ---
+
+本文介绍计算圆周率的方法
+
+<!-- more -->
+
+![](/cover-image/pi-g95bae9091_640.jpg)
 
 ## 割圆术
 
