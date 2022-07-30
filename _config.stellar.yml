@@ -1,5 +1,5 @@
 stellar:
-  homepage: 'https://my_hexo_blog.com'
+  homepage: 'https://peterliu.github.io'
   repo: 'https://github.com/peter.liu/hexo_blog'
 
 
@@ -30,6 +30,11 @@ comments:
   beaudar:
     repo: peterliu/blog-comments
 
-
+# style:
+#   darkmode: auto # auto / always / false
+#   theme:
+#     light: '#f0f0f0' # '#f8f8f8'
+#     dark: '#313438'
 
     
+
