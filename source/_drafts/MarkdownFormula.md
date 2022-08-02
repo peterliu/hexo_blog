@@ -208,12 +208,11 @@ X  |  X  |  χ  |  \chi
 
 ### 方程式组
 
-```
+
 $$ 
 \left\{
     \begin{aligned} 
         x + y + z &= 3    \\
-        {\partial{x} \over y^\prime} &= {{x+1} \over {y-1}}        \\
         \frac{y}{z} &= 2
     \end{aligned}
 \right.
@@ -223,11 +222,10 @@ $$
 $$ 
 \begin{cases} 
     x + y + z &= 3    \\
-    {\partial{x} \over y^\prime} &= {{x+1} \over {y-1}}        \\
     \frac{y}{z} &= 2
 \end{cases} 
 $$
-```
+
 
 $$ x + y + z = 3 $$
 
