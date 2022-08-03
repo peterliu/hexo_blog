@@ -208,7 +208,9 @@ X  |  X  |  χ  |  \chi
 
 ### 方程式组
 
-
+{% grid %}
+{% tabs %}
+<!-- tab 示例 -->
 $$ 
 \left\{
     \begin{aligned} 
@@ -218,14 +220,22 @@ $$
 \right.
 $$
 
-
-$$ 
-\begin{cases} 
-    x + y + z &= 3    \\
-    \frac{y}{z} &= 2
-\end{cases} 
+<!-- tab 写法 -->
+{% codeblock lang:latex %}
 $$
+\left\{
+    \begin{aligned} 
+        x + y + z &= 3    \\
+        \frac{y}{z} &= 2
+    \end{aligned}
+\right.
+$$
+{% endcodeblock %}
+
+{% endtabs %}
+{% endgrid %}
 
 
-$$ x + y + z = 3 $$
+
+
 
