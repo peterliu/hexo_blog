@@ -1,7 +1,7 @@
 ---
 title: Markdown 数学公式语法整理
 cover: /cover-image/math-1509228468518-180dd4864904.jpg
-date: 2022-08-03 15:15:45
+date: 2022-08-03 18:15:45
 tags: [Markdown, math, latex, katex, 数学公式]
 categories: [Markdown]
 
