@@ -48,14 +48,18 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace: ''
-  wrap: true
+  tab_replace: '    '
+  wrap: false
   hljs: false
 prismjs:
   enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
+
+#inject:
+#  head:
+#    - <link rel="stylesheet" href="https://fastly.jsdelivr.net/gh/highlightjs/cdn-release@11.5.0/build/styles/github-dark-dimmed.min.css">
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')

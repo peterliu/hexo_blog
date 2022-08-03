@@ -47,13 +47,13 @@ $$  CD = OD - 0C = 1 - OC     \tag{3}  $$
 
 利用勾股定理，计算上一步中的OC
 $$  OC^2 + BC^2 = OB^2  $$
-$$  OC = \sqrt{(1 - (\frac{AB}{2})^2)}     \tag{4}  $$
+$$  OC = \sqrt{\Big(1 - (\frac{AB}{2})^2 \Big)}     \tag{4}  $$
 
 由 (3) (4) 得出 CD
-$$  CD = 1 - \sqrt{(1 - (\frac{AB}{2})^2)}     \tag{5}  $$
+$$  CD = 1 - \sqrt{\Big(1 - (\frac{AB}{2})^2 \Big)}     \tag{5}  $$
 
 由 (1) (2) (5) 得出 CD，计算最终的 BD
-$$  BD = \sqrt{ (1 - \sqrt{(1 - (\frac{AB}{2})^2)})^2 +  (\frac{AB}{2})^2  }  $$
+$$  BD = \sqrt{ \Bigg(1 - \sqrt{ \Big( 1 - (\frac{AB}{2})^2 \Big) } \ \Bigg)^2 +  (\frac{AB}{2})^2  }  $$
 
 将这个 BD 代入 AB ，迭代计算下去，即可得到更为精准的数值
 
